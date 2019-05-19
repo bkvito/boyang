@@ -2,7 +2,7 @@ window.XYDCONFIG = {
 	PROJECT_URL:'http://127.0.0.1:8081',
 	PROBJECT_LOCATION: "http://location",
 	PROBJECT_NAME: "IOT",
-	PROBJECT_PATH: "/IOT/resources/common",
+	PROBJECT_PATH: "../resources/common",
 	PROBJECT_NAMECHINA: "WEB二三维可视化系统",
 	PROBJECT_VERSIONS: "1.0",
 };
